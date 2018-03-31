@@ -4,11 +4,12 @@ ReactNativeCourse
 #项目环境搭建
 
 ##1.安装HomeBrew (MacOS 包管理器)
-
+>
+>
 	终端中执行如下命令：
-	>/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+	/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
     
-    ![HomeBrew安装注意细节](./ReadMeFiles/Brew安装注意.png)
+    ![HomeBrew安装注意细节](https://github.com/ChaoBo/ReactNativeCourse/blob/master/ReadMeFiles/Brew安装注意.png)
 
     更多HomeBrew使用细节请查看HomeBrew官方网站：https://brew.sh
 
