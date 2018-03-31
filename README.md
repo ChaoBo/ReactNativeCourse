@@ -9,7 +9,7 @@ ReactNativeCourse
 	终端中执行如下命令：
 	/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
     
-    ![HomeBrew安装注意细节](https://github.com/ChaoBo/ReactNativeCourse/blob/master/ReadMeFiles/Brew安装注意.png)
+    ![image](https://github.com/ChaoBo/ReactNativeCourse/blob/master/ReadMeFiles/Brew安装注意.png)
 
     更多HomeBrew使用细节请查看HomeBrew官方网站：https://brew.sh
 
